@@ -1,0 +1,6 @@
+name: Afktime
+version: '${project.version}'
+main: dev.pinguin.afk.Afktime
+api-version: 1.16
+authors: [ Pinguin ]
+description: Plugin de AFK para ComuGamers
